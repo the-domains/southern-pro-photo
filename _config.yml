@@ -1,0 +1,14 @@
+layout_spectrum: 0.9940324323251843
+typography_spectrum: 0.24155913246795535
+color:
+  brandStrength: 0.35922874603420496
+  lightness: 0.8465469006914645
+  saturation: 0.25754247209988534
+  rhythmicContrast: 0.6401896337047219
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: Southern Pro Photo
